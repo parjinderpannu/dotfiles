@@ -1,4 +1,4 @@
-Test
+Test1
 # Awesome Dotfiles
 
 Simple, but extensive customization of ZSH, TMUX, and Vim. 
