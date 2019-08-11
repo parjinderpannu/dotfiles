@@ -84,3 +84,5 @@ fi
 
 source ~/dotfiles/zsh/prompt.sh
 export PATH=$PATH:$HOME/dotfiles/utils
+export PATH="$HOME/.jenv/bin:$PATH"
+eval "$(jenv init -)"
