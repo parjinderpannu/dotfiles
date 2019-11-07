@@ -1,8 +1,9 @@
 # Cmd for nested submodules
 
-git submodule update --init --recursive
-git clone --recursive
-[link](#https://stackoverflow.com/questions/1535524/git-submodule-inside-of-a-submodule-nested-submodules)
+1. git submodule update --init --recursive
+2. git clone --recursive
+
+[link](https://stackoverflow.com/questions/1535524/git-submodule-inside-of-a-submodule-nested-submodules)
 
 # Awesome Dotfiles
 
